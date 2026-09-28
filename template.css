@@ -1,19 +1,22 @@
 /*
- *Name: [First Last]
- *UnityID: [unityID]
- *Date: [Date Completed]
- *Assignment: [Assignment Name]
- *Description: [Assignment Description]
+ *Name: Zayd Dahir
+ *UnityID: zhdahir
+ *Date: 9/25/26
+ *Assignment: Guided Lab 4
+ *Description: Webpages guided lab
  */
  
 p {
-    property: value;
+    font-family: Times;
+    font-size: 16px;
+    color:beige;
 }
 
-.class {
-    property: value;
+.table-border {
+    border: 1px solid coral;
 }
 
-#id {
-    property:value;
+#photo-resize {
+    max-width: 250px;
+    max-height: 300px;
 }

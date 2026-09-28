@@ -1,0 +1,18 @@
+commit 5001aeb2849a1a0ad93941ef4eb8ead786d42c9b
+Merge: 5c42895 34894b6
+Author: Zayd Dahir <zhdahir@ncsu.edu>
+Date:   Sun Sep 27 20:46:29 2026 -0400
+
+    Merge branch 'main' of https://github.com/zayddahir/Wepages
+
+commit 5c428957c94d514bb551f0219d08acd286058ab3
+Author: Zayd Dahir <zhdahir@ncsu.edu>
+Date:   Sun Sep 27 20:36:58 2026 -0400
+
+    uploading files
+
+commit 34894b656d69adb08cc1a702fc707fa2f3e5f2d7
+Author: zayddahir <zhdahir@ncsu.edu>
+Date:   Sun Sep 27 20:28:41 2026 -0400
+
+    Initial commit
