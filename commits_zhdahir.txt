@@ -1,3 +1,9 @@
+commit eb05d99524c34fce0c12abba9afdac40af8358c8
+Author: Zayd Dahir <zhdahir@ncsu.edu>
+Date:   Sun Sep 27 20:59:58 2026 -0400
+
+    fixed table border
+
 commit 5001aeb2849a1a0ad93941ef4eb8ead786d42c9b
 Merge: 5c42895 34894b6
 Author: Zayd Dahir <zhdahir@ncsu.edu>
